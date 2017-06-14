@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">My Google News</string>
+    <string name="sync_updated">My Google News updated</string>
+    <string name="testing">Testing...</string>
+    <string name="connecting">Connecting...</string>
+    <string name="no_internet">No Internet Connection</string>
+    <string name="data_error">Oops, No Google News found, check internet connection and try again later</string>
+    <string name="no_result">No result found</string>
+    <string name="previous">Previous</string>
+    <string name="next">Next</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="sort_by_top_rated">Sort by Top Rated</string>
+    <string name="sort_by_latest">Sort by Latest</string>
+    <string name="bookmarks">Bookmarks</string>
+    <string name="news_image">News Image</string>
+    <string name="action_share">Share</string>
+    <string name="oh_no">Oh no!</string>
+</resources>
