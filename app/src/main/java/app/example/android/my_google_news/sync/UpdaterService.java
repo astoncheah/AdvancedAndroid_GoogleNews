@@ -43,7 +43,7 @@ public class UpdaterService extends IntentService{
     public static final String BROADCAST_ACTION_STATE_CHANGE = "app.example.android.my_google_news.intent.action.STATE_CHANGE";
     public static final String EXTRA_REFRESHING = "app.example.android.my_google_news.intent.extra.REFRESHING";
     //// TODO: 6/6/17 need to remove before submit
-    public static final String API_KEY = "b4b08086d029491993d9fd94c1041ddf";
+    public static final String API_KEY = "ADD_YOUR_OWN_KEY";
     public static final String NEWS_SOURCE1 = "google-news";
     public static final String NEWS_SOURCE2 = "the-next-web";
     public static final String NEWS_URL_TOP     = "https://newsapi.org/v1/articles?source="+NEWS_SOURCE1+"&sortBy=top&apiKey="+API_KEY;
